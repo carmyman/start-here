@@ -20,3 +20,5 @@ It's easy because everything happens here. Have a look at the
 that need to be made. If you have a question or proposal about Joomla CMS distributions in general, just post a new issue.
 If you want to keep informed about issues that people are raising, change the "Watch" settings above 
 (this is a standard Github feature).
+
+[Here are some ideas](https://github.com/joomla-cms/start-here/issues/5) for things that need to be discussed during the early planning phases of this project.
