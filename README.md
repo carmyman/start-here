@@ -15,7 +15,11 @@ Information (as it comes to hand) can be found in the following places:
 
 ## Getting involved
 
-It's easy because everything happens here. Have a look at the 
+It's easy because everything happens here 
+(please try to avoid raising points of discussion on the Joomla development mailing lists - 
+we want all the information in one place so it's easy for people to find).
+
+Have a look at the 
 [issues](https://github.com/joomla-cms/start-here/issues) list for questions people are asking and decisions
 that need to be made. If you have a question or proposal about Joomla CMS distributions in general, just post a new issue.
 If you want to keep informed about issues that people are raising, change the "Watch" settings above 
